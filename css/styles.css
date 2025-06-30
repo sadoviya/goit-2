@@ -1,0 +1,104 @@
+body {
+  font-family: "Roboto", serif;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 2%;
+  color: #434455;
+  background-color: #ffffff;
+}
+ul {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+a:visited {
+  /* color: inherit; */
+}
+button {
+  cursor: pointer;
+}
+.logo-header {
+  color: #2e2f42;
+  font-family: "Raleway";
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 3%;
+  text-transform: uppercase;
+}
+.logo-half {
+  color: #4d5ae5;
+}
+.nav-link {
+  color: #2e2f42;
+  font-weight: 500;
+}
+.hero-section {
+  background-color: #2e2f42;
+  text-align: center;
+}
+.hero-title {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+}
+.hero-button {
+  color: #ffffff;
+  background-color: #4d5ae5;
+  font-weight: 500;
+  letter-spacing: 4%;
+}
+.benefits-title {
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+}
+.benefits-text {
+  font-weight: 400;
+}
+.team-title {
+  color: #2e2f42;
+  line-height: 1.11;
+  font-size: 36px;
+  font-weight: 700;
+}
+.member-title {
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+}
+.member-text {
+  font-weight: 400;
+}
+.portfolio-title {
+  color: #2e2f42;
+  line-height: 1.11;
+  font-size: 36px;
+  font-weight: 700;
+}
+.project-title {
+  color: #2e2f42;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+}
+.project-text {
+  font-weight: 400;
+}
+.logo-footer {
+  color: #f4f4fd;
+  font-family: "Raleway";
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 3%;
+  text-transform: uppercase;
+}
+.footer-section {
+  background-color: #2e2f42;
+}
+.footer-text {
+  color: #f4f4fd;
+}
